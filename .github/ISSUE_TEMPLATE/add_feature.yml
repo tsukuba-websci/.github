@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an idea for this project
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature description
+      description: 機能の内容を簡潔に記載してください
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: この機能を追加する理由を記載してください
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: その他の情報を記載してください
+    validations:
+      required: false
