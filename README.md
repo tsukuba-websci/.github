@@ -4,10 +4,10 @@ Welcome to the `.github` repository. This repository contains default community 
 
 ## What's Inside?
 
-- CODE_OF_CONDUCT.md: Our code of conduct, which defines how we run our community.
-- CONTRIBUTING.md: Guidelines for contributing to the projects.
-- SECURITY.md: How to report security vulnerabilities in our projects.
-- ISSUE_TEMPLATE/: Templates to help you create meaningful issues.
+- `CODE_OF_CONDUCT.md`: Our code of conduct, which defines how we run our community.
+- `CONTRIBUTING.md`: Guidelines for contributing to the projects.
+- `SECURITY.md`: How to report security vulnerabilities in our projects.
+- `ISSUE_TEMPLATE`: Templates to help you create meaningful issues.
 
 ## What's Coming?
 
