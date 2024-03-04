@@ -1,6 +1,6 @@
 # [Oka Laboratory (Web Science Laboratory)](https://websci.cs.tsukuba.ac.jp)
 
-![Oka Laboratory](../images/okalab_logo.png)
+![Oka Laboratory](https://github.com/tsukuba-websci/.github/blob/main/images/okalab_logo.png)
 
 ## About
 
