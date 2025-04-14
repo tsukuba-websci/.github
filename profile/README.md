@@ -1,5 +1,14 @@
 # [Oka Laboratory (Web Science Laboratory)](https://websci.cs.tsukuba.ac.jp)
 
+> [!CAUTION]
+> **Deprecation Notice**
+>
+> Due to the professor's relocation, this laboratory (Oka Laboratory) is no longer part of the University of Tsukuba.
+>
+> The new organization is [websci-lab](https://github.com/orgs/websci-lab/).
+>
+> This GitHub organization (tsukuba-websci) will no longer be actively maintained.
+
 ![Oka Laboratory](https://github.com/tsukuba-websci/.github/blob/main/images/okalab_logo.png)
 
 ## About
